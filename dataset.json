@@ -1,0 +1,79 @@
+[
+    {
+        "location_id": "DJS123D",
+        "name": "신정문 주차장",
+        "latitude": 36.60924342720994,
+        "longitude": 127.28889446545843,
+        "scooters": [
+            {
+                "id": "scooter001",
+                "battery": 70,
+                "repair": false
+            },
+                        {
+                "id": "scooter002",
+                "battery": 40,
+                "repair": false
+            },
+                        {
+                "id": "scooter003",
+                "battery": 10,
+                "repair": false
+            },
+                        {
+                "id": "scooter004",
+                "battery": 90,
+                "repair": false
+            },
+                        {
+                "id": "scooter005",
+                "battery": 20,
+                "repair": false
+            },
+                        {
+                "id": "scooter006",
+                "battery": 100,
+                "repair": false
+            }
+        ]
+    },
+    {
+        "location_id": "DK203D",
+        "name": "학술정보원",
+        "latitude": 36.60987854046684,
+        "longitude": 127.28710841905747,
+        "scooters": [
+            {
+                "id": "scooter002",
+                "battery": 50,
+                "repair": false
+            },
+                        {
+                "id": "scooter002",
+                "battery": 50,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "MMD2349",
+        "name": "과기2관",
+        "latitude": 36.61087905080802,
+        "longitude": 127.28700593927432,
+        "scooters": [
+            {
+                "id": "scooter003",
+                "battery": 30,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "SDO1239",
+        "name": "ICT 융합관",
+        "latitude": 36.60913903276567,
+        "longitude": 127.28358476879771,
+        "scooters": [
+        ]
+    }
+]
