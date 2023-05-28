@@ -1,6 +1,6 @@
 [
     {
-        "location_id": "DJS123D",
+        "location_id": "P1",
         "name": "신정문 주차장",
         "latitude": 36.60924342720994,
         "longitude": 127.28889446545843,
@@ -10,70 +10,487 @@
                 "battery": 70,
                 "repair": false
             },
-                        {
+            {
                 "id": "scooter002",
-                "battery": 40,
-                "repair": false
+                "battery": 35,
+                "repair": true
             },
-                        {
+            {
                 "id": "scooter003",
-                "battery": 10,
-                "repair": false
-            },
-                        {
-                "id": "scooter004",
                 "battery": 90,
                 "repair": false
             },
-                        {
+            {
+                "id": "scooter004",
+                "battery": 50,
+                "repair": true
+            },
+            {
                 "id": "scooter005",
-                "battery": 20,
+                "battery": 80,
                 "repair": false
             },
-                        {
+            {
                 "id": "scooter006",
-                "battery": 100,
+                "battery": 60,
                 "repair": false
             }
         ]
     },
     {
-        "location_id": "DK203D",
+        "location_id": "P2",
         "name": "학술정보원",
         "latitude": 36.60987854046684,
         "longitude": 127.28710841905747,
         "scooters": [
             {
-                "id": "scooter002",
-                "battery": 50,
+                "id": "scooter007",
+                "battery": 40,
+                "repair": true
+            },
+            {
+                "id": "scooter008",
+                "battery": 75,
                 "repair": false
             },
-                        {
-                "id": "scooter002",
-                "battery": 50,
+            {
+                "id": "scooter009",
+                "battery": 85,
+                "repair": false
+            },
+            {
+                "id": "scooter010",
+                "battery": 55,
                 "repair": true
+            },
+            {
+                "id": "scooter011",
+                "battery": 30,
+                "repair": true
+            },
+            {
+                "id": "scooter012",
+                "battery": 65,
+                "repair": false
             }
         ]
     },
     {
-        "location_id": "MMD2349",
-        "name": "과기2관",
+        "location_id": "P3",
+        "name": "과학기술2관",
         "latitude": 36.61087905080802,
         "longitude": 127.28700593927432,
         "scooters": [
             {
-                "id": "scooter003",
-                "battery": 30,
+                "id": "scooter013",
+                "battery": 85,
+                "repair": false
+            },
+            {
+                "id": "scooter014",
+                "battery": 60,
+                "repair": false
+            },
+            {
+                "id": "scooter015",
+                "battery": 45,
+                "repair": true
+            },
+            {
+                "id": "scooter016",
+                "battery": 70,
+                "repair": true
+            },
+            {
+                "id": "scooter017",
+                "battery": 90,
+                "repair": false
+            },
+            {
+                "id": "scooter018",
+                "battery": 55,
                 "repair": true
             }
         ]
     },
     {
-        "location_id": "SDO1239",
+        "location_id": "P4",
         "name": "ICT 융합관",
         "latitude": 36.60913903276567,
         "longitude": 127.28358476879771,
         "scooters": [
+            {
+                "id": "scooter019",
+                "battery": 70,
+                "repair": false
+            },
+            {
+                "id": "scooter020",
+                "battery": 60,
+                "repair": false
+            },
+            {
+                "id": "scooter021",
+                "battery": 30,
+                "repair": true
+            },
+            {
+                "id": "scooter022",
+                "battery": 50,
+                "repair": true
+            },
+            {
+                "id": "scooter023",
+                "battery": 10,
+                "repair": false
+            },
+            {
+                "id": "scooter024",
+                "battery": 35,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P5",
+        "name": "자유관",
+        "latitude": 36.61192080718518,
+        "longitude": 127.28473509894017,
+        "scooters": [
+            {
+                "id": "scooter025",
+                "battery": 45,
+                "repair": false
+            },
+            {
+                "id": "scooter026",
+                "battery": 23,
+                "repair": false
+            },
+            {
+                "id": "scooter027",
+                "battery": 89,
+                "repair": true
+            },
+            {
+                "id": "scooter028",
+                "battery": 55,
+                "repair": true
+            },
+            {
+                "id": "scooter029",
+                "battery": 67,
+                "repair": false
+            },
+            {
+                "id": "scooter030",
+                "battery": 12,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P6",
+        "name": "진리관",
+        "latitude": 36.61146576981094,
+        "longitude": 127.28471945378004,
+        "scooters": [
+            {
+                "id": "scooter031",
+                "battery": 1,
+                "repair": false
+            },
+            {
+                "id": "scooter032",
+                "battery": 5,
+                "repair": false
+            },
+            {
+                "id": "scooter033",
+                "battery": 45,
+                "repair": true
+            },
+            {
+                "id": "scooter034",
+                "battery": 34,
+                "repair": true
+            },
+            {
+                "id": "scooter035",
+                "battery": 67,
+                "repair": false
+            },
+            {
+                "id": "scooter036",
+                "battery": 23,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P7",
+        "name": "미래관",
+        "latitude": 36.610590727450074,
+        "longitude": 127.28605197208377,
+        "scooters": [
+            {
+                "id": "scooter037",
+                "battery": 34,
+                "repair": false
+            },
+            {
+                "id": "scooter038",
+                "battery": 26,
+                "repair": false
+            },
+            {
+                "id": "scooter039",
+                "battery": 45,
+                "repair": true
+            },
+            {
+                "id": "scooter040",
+                "battery": 34,
+                "repair": true
+            },
+            {
+                "id": "scooter041",
+                "battery": 25,
+                "repair": false
+            },
+            {
+                "id": "scooter042",
+                "battery": 34,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P8",
+        "name": "공공정책대학",
+        "latitude": 36.61129512896824,
+        "longitude": 127.28822865572901,
+        "scooters": [
+            {
+                "id": "scooter043",
+                "battery": 45,
+                "repair": false
+            },
+            {
+                "id": "scooter044",
+                "battery": 26,
+                "repair": false
+            },
+            {
+                "id": "scooter045",
+                "battery": 23,
+                "repair": true
+            },
+            {
+                "id": "scooter046",
+                "battery": 57,
+                "repair": true
+            },
+            {
+                "id": "scooter047",
+                "battery": 46,
+                "repair": false
+            },
+            {
+                "id": "scooter048",
+                "battery": 55,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P9",
+        "name": "과학기술1관",
+        "latitude": 36.60986349631725,
+        "longitude": 127.284928732528631,
+        "scooters": [
+            {
+                "id": "scooter049",
+                "battery": 89,
+                "repair": false
+            },
+            {
+                "id": "scooter050",
+                "battery": 84,
+                "repair": false
+            },
+            {
+                "id": "scooter051",
+                "battery": 24,
+                "repair": true
+            },
+            {
+                "id": "scooter052",
+                "battery": 76,
+                "repair": true
+            },
+            {
+                "id": "scooter053",
+                "battery": 14,
+                "repair": false
+            },
+            {
+                "id": "scooter054",
+                "battery": 34,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P10",
+        "name": "석원경상관",
+        "latitude": 36.61110536109917,
+        "longitude": 127.2893764656089,
+        "scooters": [
+            {
+                "id": "scooter055",
+                "battery": 63,
+                "repair": false
+            },
+            {
+                "id": "scooter056",
+                "battery": 60,
+                "repair": false
+            },
+            {
+                "id": "scooter057",
+                "battery": 45,
+                "repair": true
+            },
+            {
+                "id": "scooter058",
+                "battery": 70,
+                "repair": true
+            },
+            {
+                "id": "scooter059",
+                "battery": 23,
+                "repair": false
+            },
+            {
+                "id": "scooter060",
+                "battery": 55,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P11",
+        "name": "문화스포츠관",
+        "latitude": 36.61104996778747,
+        "longitude": 127.29084613457711,
+        "scooters": [
+            {
+                "id": "scooter061",
+                "battery": 12,
+                "repair": false
+            },
+            {
+                "id": "scooter062",
+                "battery": 34,
+                "repair": false
+            },
+            {
+                "id": "scooter063",
+                "battery": 45,
+                "repair": true
+            },
+            {
+                "id": "scooter064",
+                "battery": 70,
+                "repair": true
+            },
+            {
+                "id": "scooter065",
+                "battery": 90,
+                "repair": false
+            },
+            {
+                "id": "scooter066",
+                "battery": 55,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P12",
+        "name": "체육과학관",
+        "latitude": 36.61091970612451,
+        "longitude": 127.29160293761916,
+        "scooters": [
+            {
+                "id": "scooter067",
+                "battery": 85,
+                "repair": false
+            },
+            {
+                "id": "scooter068",
+                "battery": 60,
+                "repair": false
+            },
+            {
+                "id": "scooter069",
+                "battery": 45,
+                "repair": true
+            },
+            {
+                "id": "scooter070",
+                "battery": 70,
+                "repair": true
+            },
+            {
+                "id": "scooter071",
+                "battery": 34,
+                "repair": false
+            },
+            {
+                "id": "scooter072",
+                "battery": 23,
+                "repair": true
+            }
+        ]
+    },
+    {
+        "location_id": "P13",
+        "name": "학생회관",
+        "latitude": 36.61044181515558,
+        "longitude": 127.2889464403852,
+        "scooters": [
+            {
+                "id": "scooter073",
+                "battery": 54,
+                "repair": false
+            },
+            {
+                "id": "scooter074",
+                "battery": 12,
+                "repair": false
+            },
+            {
+                "id": "scooter075",
+                "battery": 67,
+                "repair": true
+            },
+            {
+                "id": "scooter076",
+                "battery": 34,
+                "repair": true
+            },
+            {
+                "id": "scooter077",
+                "battery": 34,
+                "repair": false
+            },
+            {
+                "id": "scooter078",
+                "battery": 78,
+                "repair": true
+            }
         ]
     }
 ]
