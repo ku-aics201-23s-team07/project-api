@@ -4,6 +4,7 @@ import time
 import string
 import random
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from library.avl_tree import avl_module
 from library.heap_queue import heap_queue_module
@@ -31,6 +32,14 @@ for location in locations:
     location_avl_tree.insert(location)
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 #api post body
 class Geoinfo(BaseModel):
